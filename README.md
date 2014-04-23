@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is a test-repo for DataScience course.
+This is a repo for DataScience course.
